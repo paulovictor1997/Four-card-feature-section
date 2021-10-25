@@ -68,6 +68,7 @@ h3{
 .item1{
     width: 350px;
     height: 300px;
+    padding: 10px;
     background-color: var(--VeryLightGray);
     border-radius: 10px;
     border-top: 10px solid var(--cyan);
@@ -77,6 +78,7 @@ h3{
 .item2{
     width: 350px;
     height: 300px;
+    padding: 10px;
     background-color: var(--VeryLightGray);
     border-radius: 10px;
     border-top: 10px solid var(--red);
@@ -86,6 +88,7 @@ h3{
 .item3{
     width: 350px;
     height: 300px;
+    padding: 10px;
     background-color: var(--VeryLightGray);
     border-radius: 10px;
     border-top: 10px solid var(--orange);
@@ -96,6 +99,7 @@ h3{
 .item4{
     width: 350px;
     height: 300px;
+    padding: 10px;
     background-color: var(--VeryLightGray);
     border-radius: 10px;
     border-top: 10px solid var(--blue);
