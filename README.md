@@ -1,5 +1,7 @@
 # Four card feature section
-## Welcome! / Bem vindo 👋
+
+## Welcome! / Bem vindo ! 👋
+
 Thanks for checking out this front-end coding challenge.
 Agradeço por está olhando este exercicío.
 
@@ -10,3 +12,5 @@ Agradeço por está olhando este exercicío.
 - Flexbox
 
 ### Links
+
+- Live Site solution URL: [https://paulovictor1997.github.io/Four-card-feature-section/](https://paulovictor1997.github.io/Four-card-feature-section/)
