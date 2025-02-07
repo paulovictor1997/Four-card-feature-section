@@ -32,14 +32,22 @@ header{
     display: flex;
     align-items: center;
     flex-direction: column;
+    padding: 20px;
+}
+
+header .descriptionHeader{
+    max-width: 500px;
+    text-align: center;
 }
 
 .title1{
     color: var(--GrayishBlue);
+    font-weight: bold;
 }
 
 .title2{
     color:var(--VeryDarkBlue);
+    font-weight: bold;
 }
 
 .area{
@@ -58,6 +66,7 @@ h3{
 .description{
     margin-top: 5%;
     color: var(--GrayishBlue);
+    font-weight: 500;
 }
 
 .logo{
